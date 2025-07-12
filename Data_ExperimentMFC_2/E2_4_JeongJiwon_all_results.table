@@ -1,0 +1,406 @@
+File type = "ooTextFile"
+Object class = "Table"
+
+numberOfColumns = 5 
+columnHeaders []: 
+    columnHeaders [1]:
+        label = "subject" 
+    columnHeaders [2]:
+        label = "stimulus" 
+    columnHeaders [3]:
+        label = "response" 
+    columnHeaders [4]:
+        label = "goodness" 
+    columnHeaders [5]:
+        label = "reactionTime" 
+rows: size = 30 
+rows [1]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s8_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "2.7016108999960124" 
+rows [2]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s1_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "1.5856713999819476" 
+rows [3]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s10_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "0.011213499994482845" 
+rows [4]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s2_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "3.4382268999761436" 
+rows [5]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s6_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "2.610124700004235" 
+rows [6]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s3_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "4.698257199983345" 
+rows [7]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s5_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "3.6622360999754164" 
+rows [8]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s9_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "11.484473100019386" 
+rows [9]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s7_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "2.1130451999779325" 
+rows [10]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s4_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "0.00782140000956133" 
+rows [11]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s2_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "0.7749773999967147" 
+rows [12]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s9_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "-0.1335994999972172" 
+rows [13]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s8_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "-0.15615949998027645" 
+rows [14]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s6_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "-0.18912700001965277" 
+rows [15]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s1_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "-0.059072100004414096" 
+rows [16]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s3_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "-0.08407230000011623" 
+rows [17]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s10_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "-0.046315699990373105" 
+rows [18]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s7_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "0.005310700013069436" 
+rows [19]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s4_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "3.6973640999931376" 
+rows [20]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s5_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "-0.14039390001562424" 
+rows [21]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s2_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "1.8417216000088956" 
+rows [22]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s5_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "3.243117300007725" 
+rows [23]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s10_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "0.011016600008588284" 
+rows [24]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s9_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "0.005862199992407113" 
+rows [25]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s3_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "-0.12619999999878928" 
+rows [26]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s8_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "0.9827302999910899" 
+rows [27]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s6_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "-0.07579569998779334" 
+rows [28]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s4_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "-0.10893580000265501" 
+rows [29]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s1_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "0.03556019999086857" 
+rows [30]:
+    numberOfColumns = 5 
+    cells []: 
+        cells [1]:
+            string = "experimentMFC_4" 
+        cells [2]:
+            string = "s7_t2_r2" 
+        cells [3]:
+            string = "in" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "-0.0835265000059735" 
