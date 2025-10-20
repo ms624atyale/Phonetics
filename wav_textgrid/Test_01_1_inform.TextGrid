@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.8145124716553287 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "boundary" 
+        xmin = 0 
+        xmax = 2.8145124716553287 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.584124386678201 
+            text = "1" 
+        intervals [2]:
+            xmin = 0.584124386678201 
+            xmax = 0.8690117998673672 
+            text = "2" 
+        intervals [3]:
+            xmin = 0.8690117998673672 
+            xmax = 0.9596556059722273 
+            text = "3" 
+        intervals [4]:
+            xmin = 0.9596556059722273 
+            xmax = 1.1934431901029674 
+            text = "4" 
+        intervals [5]:
+            xmin = 1.1934431901029674 
+            xmax = 1.381781733344643 
+            text = "5" 
+        intervals [6]:
+            xmin = 1.381781733344643 
+            xmax = 1.6331921593672956 
+            text = "6" 
+        intervals [7]:
+            xmin = 1.6331921593672956 
+            xmax = 1.7030884228673226 
+            text = "7" 
+        intervals [8]:
+            xmin = 1.7030884228673226 
+            xmax = 1.881383338756945 
+            text = "8" 
+        intervals [9]:
+            xmin = 1.881383338756945 
+            xmax = 2.043260304450148 
+            text = "9" 
+        intervals [10]:
+            xmin = 2.043260304450148 
+            xmax = 2.193757719846436 
+            text = "10" 
+        intervals [11]:
+            xmin = 2.193757719846436 
+            xmax = 2.2775151492828756 
+            text = "11" 
+        intervals [12]:
+            xmin = 2.2775151492828756 
+            xmax = 2.8145124716553287 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 2.8145124716553287 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09154075796925831 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09154075796925831 
+            xmax = 0.3634600858153368 
+            text = "I'm" 
+        intervals [3]:
+            xmin = 0.3634600858153368 
+            xmax = 0.7303353694171886 
+            text = "sorry" 
+        intervals [4]:
+            xmin = 0.7303353694171886 
+            xmax = 0.8770854828579294 
+            text = "we" 
+        intervals [5]:
+            xmin = 0.8770854828579294 
+            xmax = 1.179218069353572 
+            text = "didn't" 
+        intervals [6]:
+            xmin = 1.179218069353572 
+            xmax = 1.5331448135341823 
+            text = "inform" 
+        intervals [7]:
+            xmin = 1.5331448135341823 
+            xmax = 1.6583140279395199 
+            text = "you" 
+        intervals [8]:
+            xmin = 1.6583140279395199 
+            xmax = 1.7921156019590188 
+            text = "of" 
+        intervals [9]:
+            xmin = 1.7921156019590188 
+            xmax = 2.0295054913484525 
+            text = "this" 
+        intervals [10]:
+            xmin = 2.0295054913484525 
+            xmax = 2.258263021123725 
+            text = "ahead" 
+        intervals [11]:
+            xmin = 2.258263021123725 
+            xmax = 2.353218976879498 
+            text = "of" 
+        intervals [12]:
+            xmin = 2.353218976879498 
+            xmax = 2.707145721060108 
+            text = "time" 
+        intervals [13]:
+            xmin = 2.707145721060108 
+            xmax = 2.8145124716553287 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 2.8145124716553287 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.8145124716553287 
+            text = "I'm sorry. We didn't inform you of this ahead of time" 
