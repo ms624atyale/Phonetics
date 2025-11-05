@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.072879818594103 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Reverse" 
+        xmin = 0 
+        xmax = 16.072879818594103 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3938904607762788 
+            text = "" 
+        intervals [2]:
+            xmin = 1.3938904607762788 
+            xmax = 3.4157579331930554 
+            text = "itch" 
+        intervals [3]:
+            xmin = 3.4157579331930554 
+            xmax = 5.682700250751259 
+            text = "itch(reverse)" 
+        intervals [4]:
+            xmin = 5.682700250751259 
+            xmax = 9.113748082731243 
+            text = "" 
+        intervals [5]:
+            xmin = 9.113748082731243 
+            xmax = 11.319421689004091 
+            text = "badge" 
+        intervals [6]:
+            xmin = 11.319421689004091 
+            xmax = 13.953976274274437 
+            text = "badge(reverse)" 
+        intervals [7]:
+            xmin = 13.953976274274437 
+            xmax = 16.072879818594103 
+            text = "" 

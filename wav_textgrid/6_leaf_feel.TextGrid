@@ -1,0 +1,124 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.260702947845806 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Reverse" 
+        xmin = 0 
+        xmax = 14.260702947845806 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.798479813379919 
+            text = "" 
+        intervals [2]:
+            xmin = 3.798479813379919 
+            xmax = 4.274142187758156 
+            text = "leaf" 
+        intervals [3]:
+            xmin = 4.274142187758156 
+            xmax = 6.001516140258064 
+            text = "" 
+        intervals [4]:
+            xmin = 6.001516140258064 
+            xmax = 6.476308266195732 
+            text = "reversed leaf" 
+        intervals [5]:
+            xmin = 6.476308266195732 
+            xmax = 10.315335396448553 
+            text = "" 
+        intervals [6]:
+            xmin = 10.315335396448553 
+            xmax = 10.895343322471263 
+            text = "feel" 
+        intervals [7]:
+            xmin = 10.895343322471263 
+            xmax = 11.529742258941695 
+            text = "" 
+        intervals [8]:
+            xmin = 11.529742258941695 
+            xmax = 12.116122190582553 
+            text = "reversed feel" 
+        intervals [9]:
+            xmin = 12.116122190582553 
+            xmax = 14.260702947845806 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Segment" 
+        xmin = 0 
+        xmax = 14.260702947845806 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.798479813379919 
+            text = "" 
+        intervals [2]:
+            xmin = 3.798479813379919 
+            xmax = 3.9036954537953816 
+            text = "l" 
+        intervals [3]:
+            xmin = 3.9036954537953816 
+            xmax = 4.0878228245224415 
+            text = "i" 
+        intervals [4]:
+            xmin = 4.0878228245224415 
+            xmax = 4.274142187758156 
+            text = "f" 
+        intervals [5]:
+            xmin = 4.274142187758156 
+            xmax = 6.001516140258064 
+            text = "" 
+        intervals [6]:
+            xmin = 6.001516140258064 
+            xmax = 6.193453382658398 
+            text = "f" 
+        intervals [7]:
+            xmin = 6.193453382658398 
+            xmax = 6.381349841008198 
+            text = "i" 
+        intervals [8]:
+            xmin = 6.381349841008198 
+            xmax = 6.476308266195732 
+            text = "l" 
+        intervals [9]:
+            xmin = 6.476308266195732 
+            xmax = 10.315335396448553 
+            text = "" 
+        intervals [10]:
+            xmin = 10.315335396448553 
+            xmax = 10.42536905444 
+            text = "f" 
+        intervals [11]:
+            xmin = 10.42536905444 
+            xmax = 10.613731757103324 
+            text = "i" 
+        intervals [12]:
+            xmin = 10.613731757103324 
+            xmax = 10.895343322471263 
+            text = "l" 
+        intervals [13]:
+            xmin = 10.895343322471263 
+            xmax = 11.529742258941695 
+            text = "" 
+        intervals [14]:
+            xmin = 11.529742258941695 
+            xmax = 11.803272256208567 
+            text = "l" 
+        intervals [15]:
+            xmin = 11.803272256208567 
+            xmax = 11.99303369181246 
+            text = "i" 
+        intervals [16]:
+            xmin = 11.99303369181246 
+            xmax = 12.116122190582553 
+            text = "f" 
+        intervals [17]:
+            xmin = 12.116122190582553 
+            xmax = 14.260702947845806 
+            text = "" 

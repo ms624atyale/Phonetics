@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.800453514739229 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 7.800453514739229 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.641337896899529 
+            text = "" 
+        intervals [2]:
+            xmin = 1.641337896899529 
+            xmax = 2.4667394752178127 
+            text = "pie" 
+        intervals [3]:
+            xmin = 2.4667394752178127 
+            xmax = 3.184479978103277 
+            text = "" 
+        intervals [4]:
+            xmin = 3.184479978103277 
+            xmax = 4.261090732431473 
+            text = "spy" 
+        intervals [5]:
+            xmin = 4.261090732431473 
+            xmax = 5.050605285605483 
+            text = "" 
+        intervals [6]:
+            xmin = 5.050605285605483 
+            xmax = 5.971705597641829 
+            text = "cop" 
+        intervals [7]:
+            xmin = 5.971705597641829 
+            xmax = 7.800453514739229 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "VOT" 
+        xmin = 0 
+        xmax = 7.800453514739229 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7340047915175214 
+            text = "" 
+        intervals [2]:
+            xmin = 1.7340047915175214 
+            xmax = 1.8150153488700602 
+            text = "81ms" 
+        intervals [3]:
+            xmin = 1.8150153488700602 
+            xmax = 3.5178174869992453 
+            text = "" 
+        intervals [4]:
+            xmin = 3.5178174869992453 
+            xmax = 3.532583693286023 
+            text = "15ms" 
+        intervals [5]:
+            xmin = 3.532583693286023 
+            xmax = 7.800453514739229 
+            text = "" 
+    item [3]:
+        class = "TextTier" 
+        name = "f0" 
+        xmin = 0 
+        xmax = 7.800453514739229 
+        points: size = 0 
